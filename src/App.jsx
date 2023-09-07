@@ -1,4 +1,5 @@
-import { Hero } from './sections'
+import { Banner, Subscribe, VideoBanner } from './components'
+import { Hero, Categories, NewArrivals, CustomerRev, NewsArticle, Footer } from './sections'
 
 function App() {
   
@@ -7,6 +8,14 @@ function App() {
     <main>
 
     <Hero />
+    <Categories />
+    <NewArrivals />
+    <CustomerRev />
+    <VideoBanner />
+    <NewsArticle />
+    <Subscribe />
+    <Banner />
+    <Footer />
     </main>
   )
 }

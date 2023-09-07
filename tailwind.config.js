@@ -32,9 +32,8 @@ export default {
         "3xl": "0 10px 40px rgba(0, 0, 0, 0.1)",
       },
       backgroundImage: {
-        hero: "url('assets/images/collection-background.svg')",
-        card: "url('assets/images/thumbnail-background.svg')",
         herobg: "url('assets/images/BG.jpg')",
+        banner2: "url('assets/images/Banner2.jpg')",
       },
       screens: {
         wide: "1440px",
